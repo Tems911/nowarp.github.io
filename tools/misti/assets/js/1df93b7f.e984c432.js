@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknowarp_github_io=self.webpackChunknowarp_github_io||[]).push([[583],{6866:(e,i,s)=>{s.r(i),s.d(i,{default:()=>c});var t=s(6540),n=s(6347),u=s(4848);function c(){const e=(0,n.W6)();return(0,t.useEffect)((()=>{e.push("/tools/misti/docs")}),[e]),(0,u.jsx)("div",{children:(0,u.jsx)("h1",{children:"Redirecting..."})})}}}]);
